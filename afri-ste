@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Afriquadis - Boutique Santé & Opportunité</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 0; padding: 0; text-align: center; }
+        header { background: #28a745; color: white; padding: 20px; font-size: 24px; }
+        .container { padding: 20px; }
+        .product { display: inline-block; width: 30%; margin: 10px; padding: 10px; border: 1px solid #ddd; }
+        .cta { display: inline-block; background: #28a745; color: white; padding: 10px 20px; text-decoration: none; }
+    </style>
+</head>
+<body>
+    <header>Afriquadis - Santé Naturelle & Indépendance Financière</header>
+    <div class="container">
+        <h2>Nos Produits</h2>
+        <div class="product">
+            <h3>Produit 1</h3>
+            <p>Description rapide du produit.</p>
+            <a href="#" class="cta">Acheter</a>
+        </div>
+        <div class="product">
+            <h3>Produit 2</h3>
+            <p>Description rapide du produit.</p>
+            <a href="#" class="cta">Acheter</a>
+        </div>
+    </div>
+    <div class="container">
+        <h2>Paiement sécurisé</h2>
+        <p>Payez facilement avec PayPal, Stripe ou Mobile Money.</p>
+        <a href="#" class="cta">Payer en ligne</a>
+    </div>
+    <div class="container">
+        <h2>Découvrez Afriquadis</h2>
+        <p>Rejoignez-nous pour une meilleure santé et une opportunité d'affaires unique.</p>
+        <a href="https://wa.me/YOUR_NUMBER" class="cta">Contactez-nous sur WhatsApp</a>
+    </div>
+    <div class="container">
+        <h2>Témoignages</h2>
+        <p>Nos clients partagent leurs expériences :</p>
+        <blockquote>"Grâce à Afriquadis, ma santé s'est améliorée et j'ai trouvé une source de revenus stable !"</blockquote>
+        <blockquote>"Les produits sont incroyables et l'opportunité d'affaires est une vraie bénédiction !"</blockquote>
+    </div>
+</body>
+</html>
